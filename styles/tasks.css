@@ -1,0 +1,15 @@
+body {
+    color: white;
+    background-color: #6699ff;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.boxed-title {
+    border: 1px solid white;
+    text-align: center;
+}
+
+.skills {
+    text-align: center;
+}
